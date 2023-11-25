@@ -6,7 +6,7 @@ import LinkedInIcon from '../assets/img/linkedin.png';
 const SocialButton = ({ socialMedia }) => {
   let icon;
 
-  // Asigna la imagen correspondiente según la red social
+  
   switch (socialMedia) {
     case 'facebook':
       icon = FacebookIcon;

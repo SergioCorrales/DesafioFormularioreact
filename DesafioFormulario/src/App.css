@@ -7,7 +7,7 @@
 }
 
 .card-container {
-  margin-top: 50px; /* Ajusta el margen según sea necesario */
+  margin-top: 50px; 
 }
 
 .card-style {
@@ -19,12 +19,12 @@
   background-color: white;
 }
 .error-alert {
-  background-color: rgba(255, 0, 0, 0.2); /* Rojo transparente claro */
-  color: #800202; /* Texto en rojo */
-  padding: 10px; /* Espaciado interno */
-  border-radius: 8px; /* Bordes redondeados */
-  text-align: center; /* Texto centrado */
-  margin-top: 10px; /* Espaciado superior */
+  background-color: rgba(255, 0, 0, 0.2); 
+  color: #800202; 
+  padding: 10px; 
+  border-radius: 8px; 
+  text-align: center; 
+  margin-top: 10px; 
 
 }
 .col{
