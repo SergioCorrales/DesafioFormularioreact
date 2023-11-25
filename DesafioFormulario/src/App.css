@@ -1,0 +1,45 @@
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.card-container {
+  margin-top: 50px; /* Ajusta el margen según sea necesario */
+}
+
+.card-style {
+  
+  padding: 20px;
+  border-radius: 15px;
+}
+.social-icon{
+  background-color: white;
+}
+.error-alert {
+  background-color: rgba(255, 0, 0, 0.2); /* Rojo transparente claro */
+  color: #800202; /* Texto en rojo */
+  padding: 10px; /* Espaciado interno */
+  border-radius: 8px; /* Bordes redondeados */
+  text-align: center; /* Texto centrado */
+  margin-top: 10px; /* Espaciado superior */
+
+}
+.col{
+  display:flex;
+  justify-content: center;
+}
+.texto-redes{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.boton-enviar{
+  margin-top: 20px;
+}
+.formulario{
+  display: flex;
+  flex-direction: column;
+}

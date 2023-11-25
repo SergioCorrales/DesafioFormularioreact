@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(to right, #a8fa6a, #d6dc91);
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 50%; /* Hace que el botón sea redondo */
+  border: 2px solid #808080; /* Borde delgado de color gris */
+  padding: 0.6em 0.8em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
